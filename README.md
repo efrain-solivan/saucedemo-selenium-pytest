@@ -1,5 +1,7 @@
 # SauceDemo UI Test Suite (Selenium + Pytest)
 
+[![UI tests](https://github.com/efrain-solivan/saucedemo-selenium-pytest/actions/workflows/tests.yml/badge.svg)](https://github.com/efrain-solivan/saucedemo-selenium-pytest/actions/workflows/tests.yml)
+
 Automated UI tests for [saucedemo.com](https://www.saucedemo.com/), a demo store published by Sauce Labs for test practice. The suite covers login, the product list, the cart and checkout. It runs headless in GitHub Actions on every push and once a week against the live site.
 
 ## What it shows
